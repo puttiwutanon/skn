@@ -109,6 +109,9 @@ body {
 
 .about {
   text-align: center;
+  background-color: #eeeeee;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .about h1 {
   display: inline-block;
@@ -131,6 +134,8 @@ body {
 @media only screen and (max-width: 600px) {
   .about-content img {
     margin-left: 13rem;
+    width: 20rem;
+    height: 20rem;
   }
 }
 .about-content p {
@@ -199,6 +204,9 @@ body {
 .faq {
   text-align: center;
   margin-top: 5rem;
+  background-color: #eeeeee;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .faq h1 {
   text-align: center;
