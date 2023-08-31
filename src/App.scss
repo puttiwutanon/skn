@@ -23,12 +23,19 @@ body{
   }
   span{
     margin-right: 3rem;
+    &:hover{
+      border-bottom: #313638;
+    }
   }
   a{
     list-style: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Kanit', sans-serif;
+    &:hover{
+      border-bottom: 1px solid #327e9c;
+      transition: 1ms;
+    }
   }
   .hamburger-menu{
     display: none;

@@ -26,11 +26,18 @@ body {
 .navbar span {
   margin-right: 3rem;
 }
+.navbar span:hover {
+  border-bottom: #313638;
+}
 .navbar a {
   list-style: none;
   text-decoration: none;
   color: #fff;
   font-family: "Kanit", sans-serif;
+}
+.navbar a:hover {
+  border-bottom: 1px solid #327e9c;
+  transition: 1ms;
 }
 .navbar .hamburger-menu {
   display: none;
