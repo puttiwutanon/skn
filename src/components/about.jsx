@@ -10,7 +10,9 @@ export const About = () => {
                 <Fade left>
                   <div>
                       <h1>เกี่ยวกับเรา</h1>
-                      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br/> Eum rerum autem deserunt aliquid fugit molestias iusto <br/>commodi accusamus saepe ut quam voluptas<br/> et vero, porro non enim<br/> maxime quidem impedit necessitatibus.<br/> Explicabo fugit exercitationem, omnis modi repellat <br/>dignissimos autem quae<br/>. Beatae nesciunt deserunt maxime voluptates ipsa<br/> sint temporibus placeat expedita.</p>
+                      <div className='about-content-text'>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non reiciendis, quas numquam qui vel harum labore error, unde assumenda voluptas dolores sunt beatae excepturi laborum nam exercitationem ad maxime veritatis quibusdam possimus fugit enim, quod suscipit accusamus! Impedit facilis sint natus atque, sit inventore necessitatibus dignissimos, quas nam numquam dolore?</p>
+                      </div>
                       <button>อ่านต่อ</button>
                   </div>
                 </Fade>
