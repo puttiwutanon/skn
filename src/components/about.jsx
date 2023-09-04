@@ -16,7 +16,9 @@ export const About = () => {
                       <button>อ่านต่อ</button>
                   </div>
                 </Fade>
-              <Fade left><img src="public/Benefits of choosing our Full Stack Development Services illus.png" /> </Fade>
+              <div>
+                <Fade left><img src="public/Benefits of choosing our Full Stack Development Services illus.png" /> </Fade>
+              </div>
           </div>
         </Fade>
     </div>
